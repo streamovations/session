@@ -2,7 +2,7 @@
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][node-url]
-[![Build Status][travis-image]][travis-url]
+[![Build Status](https://travis-ci.org/streamovations/session.svg?branch=master)](https://travis-ci.org/streamovations/session)
 [![Test Coverage][coveralls-image]][coveralls-url]
 
 ## Installation
