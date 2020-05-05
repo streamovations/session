@@ -11,7 +11,7 @@ let crypto = require('crypto')
 let deprecate = require('depd')('express-session')
 let onHeaders = require('on-headers')
 let parseUrl = require('parseurl')
-let signature = require('../libraries/cookie/signature.js')({})
+let signature = require('@streamovations/cookie-signature')()
 let uid = require('uid-safe').sync
 
 let Cookie = require('./session/cookie')
