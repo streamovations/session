@@ -3,7 +3,7 @@
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][node-url]
 [![Build Status](https://travis-ci.org/streamovations/session.svg?branch=master)](https://travis-ci.org/streamovations/session)
-[![Test Coverage][coveralls-image]][coveralls-url]
+[![Coverage Status](https://coveralls.io/repos/github/streamovations/session/badge.svg?branch=master)](https://coveralls.io/github/streamovations/session?branch=master)
 
 ## Installation
 
