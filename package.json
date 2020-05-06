@@ -7,7 +7,7 @@
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Joe Wagner <njwjs722@gmail.com>"
   ],
-  "repository": "expressjs/session",
+  "repository": "streamovations/session",
   "license": "MIT",
   "dependencies": {
     "cookie": "0.4.0",
