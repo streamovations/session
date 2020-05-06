@@ -607,7 +607,7 @@ function setcookie(res, name, val, secret, options) {
 function unsigncookie(val, secrets) {
 
   for (let i = 0; i < secrets.length; i++) {
-    
+
     let result = signature.unsign(val, secrets[i])
 
     if (result !== false) { return result }
