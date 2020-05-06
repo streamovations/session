@@ -2397,7 +2397,6 @@ function shouldSetCookieToValue (name, val) {
   return function (res) {
     var header = cookie(res)
     var data = header && utils.parseSetCookie(header)
-    console.log(data)
     assert.ok(header, 'should have a cookie header')
     assert.strictEqual(data.name, name, 'should set cookie ' + name)
     assert.strictEqual(data.value, val, 'should set cookie ' + name + ' to ' + val)
